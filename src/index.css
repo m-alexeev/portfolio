@@ -1,6 +1,6 @@
 :root{
     /* Tokyonight theme darkmode colors */
-    --dark-foregroud: #a9b1d6;
+    --dark-foreground: #a9b1d6;
     --dark-background: #24283b;
     --dark-primary: #f7768e;
     --dark-orange: #ff9e64;
@@ -17,7 +17,7 @@
 
 
     /* Tokyonight theme lightmode colors */
-    --light-foregroud: #343b58;
+    --light-foreground: #343b58;
     --light-background: #d5d6db;
     --light-red: #8c4351;
     --light-orange: #965027;

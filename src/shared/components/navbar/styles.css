@@ -1,3 +1,16 @@
 .navbar{
-    background-color: var(--background);
+  display:flex;
+  background-color:var(--dark-background);
+  color: var(--dark-foreground);
+}
+
+.navbar-links{
+  display:flex;
+  justify-content: flex-end;
+  width: 100%;
+  list-style: none;
+}
+
+.navbar-link{
+  margin: 0 1rem;
 }
